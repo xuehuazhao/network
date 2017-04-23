@@ -1,4 +1,4 @@
-This code, written in matlab, detects the communities in an
+This code, written in matlab, detects the communities in 
 the signed network using the method of Xuehua Zhao et al. 
 DOI:https://doi.org/10.1103/PhysRevE.95.042313.
 
