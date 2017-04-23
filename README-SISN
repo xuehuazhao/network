@@ -1,0 +1,9 @@
+This code, written in matlab, detects the communities in an
+the signed network using the method of Xuehua Zhao et al. 
+DOI:https://doi.org/10.1103/PhysRevE.95.042313.
+
+If you use the code in your work, please cite 
+Xuehua Zhao, Bo Yang, Xueyan Liu, and Huiling Chen. Statistical 
+inference for community detection in signed networks. Physical 
+Review E, 2016, 95(4), 042313. 
+
