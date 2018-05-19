@@ -85,7 +85,7 @@ function [tao,rho,mu,evidence]=ssbm(A,k)
    % generate edge matix
    [re,ce]=find(A==1); % positive edge
    edgep=[re,ce];
-   [re,ce]=find(A==-1); %nagetive edge
+   [re,ce]=find(A==-1); %negative edge
    edgen=[re,ce];
    for i=1:k
        for j=1:k
